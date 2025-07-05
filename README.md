@@ -55,13 +55,13 @@ The application will be available at [http://localhost:3000](http://localhost:30
 ## Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/screenshot1.png)
+![Main Interface](src/screenshots/Screenshot%202025-07-05%20144641.png)
 
 ### Task Completed
-![Task Completed](screenshots/screenshot2.png)
+![Task Completed](src/screenshots/Screenshot%202025-07-05%20144653.png)
 
 ### Task Pending
-![Task Pending](screenshots/screenshot3.png)
+![Task Pending](src/screenshots/Screenshot%202025-07-05%20144705.png)
 
 
 ## Contributing
